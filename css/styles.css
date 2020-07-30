@@ -10140,7 +10140,7 @@ header.masthead {
   padding-bottom: 6rem;
   text-align: center;
   color: #fff;
-  background-image: url("../assets/img/back.png");
+  background-image: url("../assets/img/bg-masthead.jpg");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
@@ -10506,9 +10506,9 @@ section#contact form#contactForm :-ms-input-placeholder {
 .animation {
   display: flex;
   border: cyan;
-  padding: 2em ;
+  padding: 4em ;
   margin-top: 2em;
-  border-radius: 10%;
+  border-radius: 50%;
   animation-name: magic;
   animation-duration:5s ;
   animation-timing-function: linear;
